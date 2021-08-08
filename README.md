@@ -9,23 +9,23 @@
 <p align="center">Personal and informal repository for studying proposes.</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/franmoraiiss/orientada-objetos/">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/franmoraiiss/orientada-objetos">
 
   <a href="https://www.linkedin.com/in/franmorais/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Francisco%20Morais-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franmoraiiss/orientada-objetos/">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franmoraiiss/orientada-objetos">
   
   <a href="https://github.com/franmoraiiss/orientada-objetos//commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franmoraiiss/orientada-objetos/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franmoraiiss/orientada-objetos">
   </a>
   
-  <a href="https://github.com/franmoraiiss/orientada-objetos//issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/franmoraiiss/orientada-objetos/">
+  <a href="https://github.com/franmoraiiss/orientada-objetos/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/franmoraiiss/orientada-objetos">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/franmoraiiss/orientada-objetos/">
+  <img alt="GitHub" src="https://img.shields.io/github/license/franmoraiiss/orientada-objetos">
 </p>
 
 <p align="center">
